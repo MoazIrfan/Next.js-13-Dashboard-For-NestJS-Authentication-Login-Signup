@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Frontend dashboard built in Next.js for the backend [`NestJS-Authentication-Login-Signup`] (https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup)
+
 
 ## Getting Started
 
