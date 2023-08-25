@@ -1,4 +1,4 @@
-This is a Frontend dashboard built in Next.js for the backend [`NestJS-Authentication-Login-Signup`] (https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup)
+This is a Frontend dashboard built in Next.js for the backend [`NestJS-Authentication-Login-Signup`](https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup)
 
 
 ## Getting Started
